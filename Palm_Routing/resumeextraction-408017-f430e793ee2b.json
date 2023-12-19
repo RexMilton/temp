@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "resumeextraction-408017",
+  "private_key_id": "f430e793ee2bc2306d2dca038af78deffa1f8b86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD/T5+A6peT/PB\nqUiL2dnJipVC50ArkdICECYFIrSxr28pqwW2fGfWlaZmdPVT2cRH2K/SGBfrXjoM\n7jJjOlQsYzvfcGhnUGAZ4p0tYMbCluWS8Afx/YXzi37pbdX29U1l8LKF8fZDUzbf\nst/i/M9foHBJNQxta2olxMnM0jKWzGuGRXpuBB5JPuivg/eQDissHPKeBfDl3mlM\nhmKPJNrdSWyVcBqv67tQ0eTqTbOu3xbyPug7zduRea7e5NkiBD44XoIUv+yy3Fu1\nQqJVjMeEzAURwSTVfEeQ2PmJI/N0P6ITziefxl7urFBpl9EccLpm3Af0+0Jw5q0l\n7PFFCisjAgMBAAECggEAUns4mpX2VDy3rDAPHPQw6NXO3VovMmbrB/090vl5LDJV\nySZ1gAg5NyDB5+qe+Iv0Q/xYekWzg1Wjfp+cSxBYLloQ74cCGUDFQP+TAG7zFx+k\nPEOSRHBauFVjst+LpaQ0z4sNxrs+1bSmqlxARun4aBlASD7wHPiQspZwCygHLFjc\nF89BdCLNIPwW+OhN7bAbKJMDQ8F6U4FewgCBz7wTAfGAqP2dtnhwkOywZazy7oCY\nstzZUgw82UEq94v25D/pix4w9qx8Zg8oM4smmCQPlLg1XzeI41sSfKft9xO7l0Dv\nrjC3HBhAWqoVpSwMS1h2QpE6zxxX3cifTPV5W+gn4QKBgQD2xCAv9f85oBsVZjfy\nysgDFbwW5KVrTNweOUx0DPuM5eslyl6k3zFY9uF+R1o1/9azHub1shNDNCZqj7lZ\n1edcMe1gk/3QupgsYIN8yiH2m1OrH06cx0iOf7tXQZZEgOStc0GEdfpP2y8MCtmD\ny09SmqCdcE59zakJTlpXv30gkwKBgQDLUrSp5nEWj7cXCwqq1vu6Rylh/KAvRK2C\n5GD7UwU4MO3QL7nq4EFI6ns+YNDAxJ4Cigy8VWJHv3rJVoWN1J8SGFbv3+t8lBev\njUwPmY56qKE30snHaepXxM597p5Wg6Ke3zKQf9qqCSeX9+xHjJ6XlHjZN/NUBV9J\nG4kl3hW1MQKBgQC6PS9lwy2LGlEWh302WuE1otPAG3TVVL7UeL5A4AOCRYyBiwh/\nOowN7tYk7kkhdCNgMLRzPqDXGabcyfhD2vKwXGYhe9AWFp3+8CCMsCmN65DsF8bH\nAIi8M576rd9xeC4e0lviUwBGANCzMAUWOP13BIiwCjDTNcKb6Wy5ySXwzQKBgBeO\ngIICwe10Pyk7TUQX3lhpsEC7DTAMy/GTVi0oJD2rZZIuRWMSEl5JVHgYrXb4ELqI\nlgsn9VgMtkQncxfIn5lwGnp2PglT+x6Kx1ozV0+cw/j8wgYJnm4GzknG4K9zVt8D\nSw900LfMkbrIraZog2Naf1njYpzEdpK4zv4FKgyxAoGBAMU3K7Vfyjl4XyDeIgLc\nS5htjuM6WF+M1a077xMCteMjT/GHQLYpWcGBwrnLbQQEJaYk9I/wVZWKwuKKaL7Y\nwhCuqzGLj2n1xIakgXMaAVP3mZCrrExg4hayV1dLJSynrqxEzXNFvAxtKV/JFtv9\npyVI8TVFuXT7yQTwi+kyKHHt\n-----END PRIVATE KEY-----\n",
+  "client_email": "sinegalatha@resumeextraction-408017.iam.gserviceaccount.com",
+  "client_id": "117059101694993808369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sinegalatha%40resumeextraction-408017.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
