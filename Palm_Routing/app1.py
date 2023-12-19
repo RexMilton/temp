@@ -21,9 +21,9 @@ def upload_file():
         return jsonify({'error': 'No selected file'}), 400
     allowed_extensions = {'zip'}
     if '.' in file.filename and file.filename.rsplit('.', 1)[1].lower() in allowed_extensions:
-        upload_folder = r"C:\Users\Snekalatha\Downloads\Palm Routing\uploads"
+        upload_folder = r"E:\kaar\text extraction\Palm_Routing\uploads"
         os.makedirs(upload_folder, exist_ok=True)
-        file.save(r"C:\Users\Snekalatha\Downloads\Palm Routing\uploads\resume.zip") 
+        file.save(r"E:\kaar\text extraction\Palm_Routing\uploads\resume.zip") 
         return jsonify({'success': True})
     else:
         return jsonify({'error': 'Invalid file extension'}), 400
@@ -43,9 +43,9 @@ def submit_data():
     updated_personal_df=pd.DataFrame({"Name":data_dict['name'],"Contact_Number":data_dict['contact'],"Email_ID":data_dict['email'],"Social_Media_Profile":data_dict['media'],"Hobbies":data_dict['hobbies']},index=[0])
     print(updated_personal_df) 
     # Replace placeholders with your actual values
-    username = "sinegalatha"
-    password = "muruga"
-    cluster_uri = "cluster0.x57r05g.mongodb.net"
+    username = "RexMiltonS"
+    password = "Rexmilton5*"
+    cluster_uri = "cluster0.3ekp5xp.mongodb.net"
     database_name = "resume"
     collection_name = "personal_details"
     # Construct the connection string

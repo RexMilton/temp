@@ -16,7 +16,7 @@ def list_files_with_paths(folder_path):
     if folder_path.endswith('.zip') and os.path.isfile(folder_path):
         with zipfile.ZipFile(folder_path, 'r') as zip_ref:
             # Extract all contents of the zip file to a temporary folder
-            temp_folder = r"C:\Users\Snekalatha\Downloads\Palm Routing\uploads\temp"
+            temp_folder = r"E:\kaar\text extraction\Palm_Routing\uploads\temp"
             zip_ref.extractall(temp_folder)
 
             # Get the list of files in the temporary folder with full paths
@@ -29,7 +29,7 @@ def list_files_with_paths(folder_path):
     return files_with_paths
 
 # Example Usage:
-folder_path = r"C:\Users\Snekalatha\Downloads\Palm Routing\uploads\resume.zip"
+folder_path = r"E:\kaar\text extraction\Palm_Routing\uploads\resume.zip"
 y={}
 count=1
 file_list_with_paths = list_files_with_paths(folder_path)
